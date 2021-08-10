@@ -1,0 +1,12 @@
+.start {
+  width: 100%;
+  height: 100%;
+  padding: 1px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content {
+  background-color: transparent;
+  width: 100%;
+  height: 100%;
+}

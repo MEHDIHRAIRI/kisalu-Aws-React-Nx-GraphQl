@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kisaluclient-dev-120712-authRole",
+      "UnauthRoleArn": "arn:aws:iam::519918073452:role/amplify-kisaluclient-dev-120712-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::519918073452:role/amplify-kisaluclient-dev-120712-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-kisaluclient-dev-120712-deployment",
+      "UnauthRoleName": "amplify-kisaluclient-dev-120712-unauthRole",
+      "StackName": "amplify-kisaluclient-dev-120712",
+      "StackId": "arn:aws:cloudformation:us-east-2:519918073452:stack/amplify-kisaluclient-dev-120712/becd2860-f9c2-11eb-83d2-06009891ef2c",
+      "AmplifyAppId": "dlksrlvwz9x8p"
+    }
+  }
+}
