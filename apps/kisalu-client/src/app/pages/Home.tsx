@@ -40,6 +40,7 @@ const Home: React.FC = () => {
                             <img
                               className="h-8 w-auto sm:h-10"
                               src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                              alt="bg"
                             />
                           </a>
                           <div className="-mr-2 flex items-center md:hidden">

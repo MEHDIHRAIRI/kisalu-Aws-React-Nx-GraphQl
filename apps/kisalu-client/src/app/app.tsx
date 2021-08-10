@@ -4,6 +4,7 @@ import { IonReactRouter } from '@ionic/react-router';
 import Home from './pages/Home';
 import Tasks from './pages/Tasks';
 import TaskList from './pages/TaskList';
+/* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
 
 /* Basic CSS for apps built with Ionic */
