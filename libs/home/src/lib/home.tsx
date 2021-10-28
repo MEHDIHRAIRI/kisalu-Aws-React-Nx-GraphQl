@@ -3,7 +3,7 @@ import './home.module.css';
 /* eslint-disable-next-line */
 export interface HomeProps {}
 
-export function Home(props: HomeProps) {
+export function Home1(props: HomeProps) {
   return (
     <div>
       <h1>Welcome to Home!</h1>
@@ -11,4 +11,4 @@ export function Home(props: HomeProps) {
   );
 }
 
-export default Home;
+export default Home1;

@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@kisalu-mehdi/home": ["libs/home/src/index.ts"]
+      "@kisalu-mehdi/home": ["libs/home/src/index.ts"],
+      "@kisalu-mehdi/ui": ["libs/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

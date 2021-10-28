@@ -36,6 +36,9 @@
     "kisalu-client-e2e": {
       "tags": [],
       "implicitDependencies": ["kisalu-client"]
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
